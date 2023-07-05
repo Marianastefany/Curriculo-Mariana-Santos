@@ -1,0 +1,102 @@
+html{
+
+    background-color: #ffebeb
+
+}
+
+body{
+
+    background-color:#D8BFD8; /* cor do fundo*/
+    font-family: Verdana, sans-serif; /*fonte de todo conteúdo*/
+    font-size: 20px; /* tamanho da fonte*/
+    margin-bottom: 56px;
+    width:60%; /*define a largura da área do conteúdo*/
+    margin: auto; /*define a área de margem nos quatro lados do elemento*/
+    border-width: 4px;
+    border-color: #000000;/*cor da borda*/
+    border-style: solid;/*borda*/
+    text-align: center;/*comteúdo no centro*/
+
+
+}
+
+h1 {
+   color:	#040404;
+  /* text-decoration: underline; /* sublinhado */
+   text-align: center;/*texto no centro*/
+  padding: 0%; /* área de preenchimento em todos os quatro lados de um elemento */
+   font-size: 46px;
+ margin-bottom: 0%;
+
+}
+
+
+
+
+h2{
+
+    color: 	#EE82EE;
+    font-size: medium;
+    text-align: center;
+    p.solid {border-style: solid;}
+    width: 100px;
+    border: 5px solid #FFF0F5 ;
+    padding: 7px;
+    margin: 10px;
+    /*text-decoration: overline underline; /* sublinhado duplo*/
+    /*text-decoration-color: #87CEEB; /*cor para sublinhado*/
+
+}
+
+div {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: #000000;
+    text-align: center;
+
+}
+
+
+.menu li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a {
+    background-color: 	#EE82EE;
+    padding: 16px;
+    display: block;
+    /*text-align: center;
+}
+
+.menu a:hover {
+    background-color: 	#d89cd8;
+    color: 	#414040;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+    padding: 0%; 
+}
+
+/*.titulo{
+color: rgb(6, 162, 223);
+
+text-decoration: line-throug
+/*text-decoration-color: #cb7009; /*cor para sublinhado*/
+/*text-decoration: overline underline;/* sublinhado duplo*/
+
+
+
+/*p{
+
+    
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ list-style-type:circle;
+}*/
+
